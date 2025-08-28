@@ -1,0 +1,51 @@
+/* section {
+    margin-bottom: 6.25rem;
+}
+
+.carosel {
+    min-height: auto;
+
+    width: 100%;
+}
+
+.slide-item {
+    width: 100%;
+    background-color: #FCEAE8;
+    height: auto;
+    padding: 20px 40px;
+    display: grid;
+    justify-content: left;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+
+.slide-item p {
+    font-size: 1rem;
+    font-weight: 400;
+} */
+section {
+    margin-bottom: 6.25rem
+}
+
+.pink-bg {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+
+}
+
+.carousel-item {
+    padding: 20px 40px
+}
+
+.price {
+    color: #FF136F
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
